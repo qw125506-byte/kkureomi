@@ -12,11 +12,11 @@
 
 ## 내려받기
 
-👉 **[최신 설치파일 내려받기 (문서꾸러미_설치파일.zip)](../../releases/latest)**
+👉 **[설치파일 바로 내려받기 (kkureomi-setup.zip)](https://github.com/qw125506-byte/kkureomi/releases/latest/download/kkureomi-setup.zip)** · [배포판 목록](../../releases/latest)
 
 ## 설치하고 켜기 (Windows 10·11)
 
-1. 위에서 받은 `문서꾸러미_설치파일.zip`을 오른쪽 클릭 → **압축 풀기**
+1. 위에서 받은 `kkureomi-setup.zip`을 오른쪽 클릭 → **압축 풀기**
 2. 풀린 `문서꾸러미` 폴더의 **`문서꾸러미 실행.bat`** 을 두 번 누릅니다.
    - 「Windows의 PC 보호」 창이 뜨면 **추가 정보 → 실행**
    - 처음 한 번은 필요한 프로그램(Python 등)을 자동으로 설치합니다(인터넷 필요, 몇 분).
